@@ -1,0 +1,33 @@
+<deviceTag>
+    <sensor>
+	<protocol></protocol>
+	<addrCode></addrCode>
+	<funcCode></funcCode>
+	<startIndex></startIndex>
+	<length></length>
+	<dataItem>
+   	    <kpi id="" type="">
+		<dataTyte value="3"/>                               
+		<dataInstanceCode value="4"/>        
+		<dataUnitCode value="5"/>                    
+		<dataFlag value="6"/>         
+	    </kpi> 
+   	    <kpi id="" type="">
+		<dataCode value="1"/>
+ 		<dataIndustryCode value="2"/>         
+		<dataTyte value="3"/>                               
+		<dataInstanceCode value="4"/>        
+		<dataUnitCode value="5"/>                    
+		<dataFlag value="6"/>         
+	    </kpi> 
+   	    <kpi id="" type="">
+		<dataCode value="1"/>
+ 		<dataIndustryCode value="2"/>         
+		<dataTyte value="3"/>                               
+		<dataInstanceCode value="4"/>        
+		<dataUnitCode value="5"/>                    
+		<dataFlag value="6"/>         
+	    </kpi> 
+	</dataItem>
+    </sensor>
+</deviceTag>
